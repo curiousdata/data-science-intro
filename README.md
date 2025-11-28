@@ -8,12 +8,3 @@ This repository contains a small, self‑contained example showing the basic ste
 - Building a linear regression model to predict flat prices from size and room count  
 - Inspecting model weights, visualizing the fitted line, and making new predictions
 
-## Getting started
-
-1. Create and activate a virtual environment (optional but recommended):
-
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-```
-
